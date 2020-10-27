@@ -1,1 +1,2 @@
-# sneaker_animation_java
+![Sneaker Card Demo](./assets/captured.gif)
+
